@@ -1,6 +1,4 @@
 package com.mycompany.serverproject;
-
-public class ServerConnectionManager 
-{
+public class ServerConnectionManager {
     
 }
