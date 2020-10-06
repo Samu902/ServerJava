@@ -3,8 +3,8 @@ import java.net.*;
 import java.io.*;
 public class Client {
     //Variabili
-    String nomeServer= "nomeServer";
-    int portaServer = 6789;
+    String nomeServer= "localhost";
+    int portaServer = 12345;
     BufferedReader in;
     DataOutputStream out;
     BufferedReader tastiera;

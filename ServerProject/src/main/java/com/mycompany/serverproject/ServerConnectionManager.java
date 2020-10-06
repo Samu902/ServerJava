@@ -8,7 +8,7 @@ public class ServerConnectionManager
     {
         try 
         {
-            ServerSocket serverSocket = new ServerSocket(6789);
+            ServerSocket serverSocket = new ServerSocket(12345);
             while(true)
             {
                 System.out.println("1 Server in attesa");
